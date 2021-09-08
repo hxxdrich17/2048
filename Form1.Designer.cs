@@ -1,4 +1,3 @@
-﻿
 namespace _2048
 {
     partial class Form1
