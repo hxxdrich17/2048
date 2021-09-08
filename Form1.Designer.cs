@@ -21,7 +21,7 @@ namespace _2048
             base.Dispose(disposing);
         }
 
-        #region Код, автоматически созданный конструктором форм Windows
+        #region
 
         /// <summary>
         /// </summary>
